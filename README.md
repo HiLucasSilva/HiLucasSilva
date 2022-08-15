@@ -1,4 +1,4 @@
-Olá sou o Lucas Mendonça Silva!!!
+Olá!! Sou o Lucas Mendonça Silva 
 
 <div align="center">
 <a href="https://github.com/HiLucasSilva">
