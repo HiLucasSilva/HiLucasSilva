@@ -12,9 +12,6 @@ Desenvolvedor brasileiro Front-end com experiências em JavaScript, HTML, Css. C
 * 🧠  I'm learning PowerBi | Python | Js
 * ⚡  I'm 20 years old
 
-<a href="https://www.github.com/HiLucasSilva" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/HiLucasSilva?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
-
 ### Skills
 
 
