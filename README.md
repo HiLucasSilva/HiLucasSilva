@@ -7,7 +7,7 @@ Software Developer : FrontEnd
 Desenvolvedor brasileiro Front-end com experiências em JavaScript, HTML, Css. Com conhecimento em linguagens de outras áreas como Python, PowerBi, Java, C++. Graduando em Sistemas de Informação
 
 * 🌍  I'm based in Brasil
-* 🖥️  See my portfolio at [Meu Portifolio](http://github.com/HiLucasSilva/mylinks)
+* 🖥️  See my portfolio at [Meu Portifolio]()
 * ✉️  You can contact me at [lucassilvadevx@gmail.com](mailto:lucassilvadevx@gmail.com)
 * 🧠  I'm learning PowerBi | Python | Js
 * ⚡  I'm 20 years old
