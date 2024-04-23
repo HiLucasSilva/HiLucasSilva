@@ -10,7 +10,7 @@ Desenvolvedor brasileiro Front-end com experiências em JavaScript, HTML, Css. C
 * 🖥️  See my portfolio at [Meu Portifolio]()
 * ✉️  You can contact me at [lucassilvadevx@gmail.com](mailto:lucassilvadevx@gmail.com)
 * 🧠  I'm learning PowerBi | Python | Js | ReactJS
-* ⚡  I'm 20 years old
+* ⚡  I'm 21 years old
 
 ### Skills
 
