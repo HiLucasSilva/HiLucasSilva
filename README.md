@@ -4,7 +4,7 @@ Hi 👋 My name is Lucas Silva
 Software Developer : FrontEnd
 -----------------------------
 
-Desenvolvedor brasileiro Front-end com experiências em JavaScript, HTML, Css, ReactJS. Com conhecimento em linguagens de outras áreas como Python, PowerBi, Java, C++. Graduando em Sistemas de Informação
+Desenvolvedor brasileiro Front-end com experiências em JavaScript, HTML, Css, ReactJS. Com conhecimento em linguagens de outras áreas como Python, PowerBi, Graduando em Sistemas de Informação
 
 * 🌍  I'm based in Brasil
 * 🖥️  See my portfolio at [Meu Portifolio]()
