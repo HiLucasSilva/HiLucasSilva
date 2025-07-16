@@ -1,4 +1,4 @@
-Hi 👋 My name is Lucas Silva
+Ola 👋 me chamo Lucas Mendonça Silva
 ============================
 
 Software Developer : FrontEnd
@@ -6,11 +6,12 @@ Software Developer : FrontEnd
 
 Desenvolvedor brasileiro Front-end com experiências em JavaScript, HTML, Css, ReactJS. Com conhecimento em linguagens de outras áreas como Python, PowerBi, Graduando em Sistemas de Informação
 
-* 🌍  I'm based in Brasil
-* 🖥️  See my portfolio at [Meu Portifolio]()
-* ✉️  You can contact me at [lucassilvadevx@gmail.com](mailto:lucassilvadevx@gmail.com)
-* 🧠  I'm learning PowerBi | Python | Js | ReactJS
-* ⚡  I'm 21 years old
+* 🌍  Sou brasileiro
+* ⚡  Tenho 22 anos
+* 🖥️  Veja meu portifolio [Meu Portifolio]()
+* ✉️  Entre em contato comigo [lucassilvadevx@gmail.com](mailto:lucassilvadevx@gmail.com)
+* 🧠  Estou com estudos focados em  Js | ReactJS
+
 
 ### Skills
 
