@@ -8,7 +8,7 @@ Desenvolvedor brasileiro Front-end com experiências em JavaScript, HTML, Css, R
 
 * 🌍  Sou brasileiro
 * ⚡  Tenho 22 anos
-* 🖥️  Veja meu portifolio [Meu Portifolio]()
+* 🖥️  Veja meu portifolio [Meu Portifolio](https://lnkd.in/db6EXx43)
 * ✉️  Entre em contato comigo [lucassilvadevx@gmail.com](mailto:lucassilvadevx@gmail.com)
 * 🧠  Estou com estudos focados em  Js | ReactJS
 
