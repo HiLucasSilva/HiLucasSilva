@@ -7,10 +7,11 @@ Software Developer : FrontEnd
 Desenvolvedor brasileiro Front-end com experiências em JavaScript, HTML, Css, ReactJS. Com conhecimento em linguagens de outras áreas como Python, PowerBi, Graduando em Sistemas de Informação
 
 * 🌍  Sou brasileiro
-* ⚡  Tenho 22 anos
+* ⚡  Tenho 23 anos
 * 🖥️  Veja meu portifolio [Meu Portifolio](https://lnkd.in/db6EXx43)
 * ✉️  Entre em contato comigo [lucassilvadevx@gmail.com](mailto:lucassilvadevx@gmail.com)
 * 🧠  Estou com estudos focados em  Js | ReactJS
+*  Pós Graduando em IA e Automação
 
 
 ### Skills
