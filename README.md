@@ -11,7 +11,7 @@ Desenvolvedor brasileiro Front-end com experiências em JavaScript, HTML, Css, R
 * 🖥️  Veja meu portifolio [Meu Portifolio](https://lnkd.in/db6EXx43)
 * ✉️  Entre em contato comigo [lucassilvadevx@gmail.com](mailto:lucassilvadevx@gmail.com)
 * 🧠  Estou com estudos focados em  Js | ReactJS
-*  Pós Graduando em IA e Automação
+* 🎓 Pós Graduando em IA e Automação
 
 
 ### Skills
